@@ -77,3 +77,10 @@ typings/
 
 #sounds
 *.mp3
+
+# images
+*.png
+*.jpg
+
+#videos
+*.mp4
