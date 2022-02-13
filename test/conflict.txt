@@ -4,4 +4,4 @@ main conflict 2
 
 main conflict 3 - other
 
-github conflict
+delete confilct
